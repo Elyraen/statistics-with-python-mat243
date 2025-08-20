@@ -38,16 +38,6 @@ This project was completed for a university statistics course, where I worked as
 
 These visual tools made it easier to observe and interpret consistency, outliers, and trends in scoring.
 
----
-
-## 📂 Files Included
-
-- `project1_analysis.html` – Full analysis exported from Jupyter Notebook
-- `summary_report.pdf` – Written summary explaining methods and findings
-- `README.md` – This file
-
----
-
 ## 🛠 Tools & Technologies
 
 - Python 3
